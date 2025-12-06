@@ -30,7 +30,7 @@ This app helps users create, manage, and track daily tasks with an intuitive and
 ---
 
 ## 📂 Project Structure
-
+```
 lib/
 ├── main.dart
 ├── models/
@@ -50,7 +50,7 @@ assets/
 ├── add_task.png
 └── completed_task.png
 
----
+```
 
 ## 2. Install dependencies
 ```bash
